@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/p4_ChooseYouOwnAdventure/static/css/main.bb41f7c6.chunk.css",
+    "main.js": "/p4_ChooseYouOwnAdventure/static/js/main.d6516cfb.chunk.js",
+    "main.js.map": "/p4_ChooseYouOwnAdventure/static/js/main.d6516cfb.chunk.js.map",
+    "runtime-main.js": "/p4_ChooseYouOwnAdventure/static/js/runtime-main.f931134d.js",
+    "runtime-main.js.map": "/p4_ChooseYouOwnAdventure/static/js/runtime-main.f931134d.js.map",
+    "static/js/2.0412642a.chunk.js": "/p4_ChooseYouOwnAdventure/static/js/2.0412642a.chunk.js",
+    "static/js/2.0412642a.chunk.js.map": "/p4_ChooseYouOwnAdventure/static/js/2.0412642a.chunk.js.map",
+    "static/js/3.e2e42efb.chunk.js": "/p4_ChooseYouOwnAdventure/static/js/3.e2e42efb.chunk.js",
+    "static/js/3.e2e42efb.chunk.js.map": "/p4_ChooseYouOwnAdventure/static/js/3.e2e42efb.chunk.js.map",
+    "index.html": "/p4_ChooseYouOwnAdventure/index.html",
+    "static/css/main.bb41f7c6.chunk.css.map": "/p4_ChooseYouOwnAdventure/static/css/main.bb41f7c6.chunk.css.map",
+    "static/js/2.0412642a.chunk.js.LICENSE.txt": "/p4_ChooseYouOwnAdventure/static/js/2.0412642a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f931134d.js",
+    "static/js/2.0412642a.chunk.js",
+    "static/css/main.bb41f7c6.chunk.css",
+    "static/js/main.d6516cfb.chunk.js"
+  ]
+}
