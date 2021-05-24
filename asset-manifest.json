@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/choose_your_own_adventure/static/css/main.bb41f7c6.chunk.css",
-    "main.js": "/choose_your_own_adventure/static/js/main.d6516cfb.chunk.js",
-    "main.js.map": "/choose_your_own_adventure/static/js/main.d6516cfb.chunk.js.map",
+    "main.js": "/choose_your_own_adventure/static/js/main.b1d3f672.chunk.js",
+    "main.js.map": "/choose_your_own_adventure/static/js/main.b1d3f672.chunk.js.map",
     "runtime-main.js": "/choose_your_own_adventure/static/js/runtime-main.19bb0724.js",
     "runtime-main.js.map": "/choose_your_own_adventure/static/js/runtime-main.19bb0724.js.map",
-    "static/js/2.0412642a.chunk.js": "/choose_your_own_adventure/static/js/2.0412642a.chunk.js",
-    "static/js/2.0412642a.chunk.js.map": "/choose_your_own_adventure/static/js/2.0412642a.chunk.js.map",
+    "static/js/2.9b9563a9.chunk.js": "/choose_your_own_adventure/static/js/2.9b9563a9.chunk.js",
+    "static/js/2.9b9563a9.chunk.js.map": "/choose_your_own_adventure/static/js/2.9b9563a9.chunk.js.map",
     "static/js/3.e2e42efb.chunk.js": "/choose_your_own_adventure/static/js/3.e2e42efb.chunk.js",
     "static/js/3.e2e42efb.chunk.js.map": "/choose_your_own_adventure/static/js/3.e2e42efb.chunk.js.map",
     "index.html": "/choose_your_own_adventure/index.html",
     "static/css/main.bb41f7c6.chunk.css.map": "/choose_your_own_adventure/static/css/main.bb41f7c6.chunk.css.map",
-    "static/js/2.0412642a.chunk.js.LICENSE.txt": "/choose_your_own_adventure/static/js/2.0412642a.chunk.js.LICENSE.txt"
+    "static/js/2.9b9563a9.chunk.js.LICENSE.txt": "/choose_your_own_adventure/static/js/2.9b9563a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.19bb0724.js",
-    "static/js/2.0412642a.chunk.js",
+    "static/js/2.9b9563a9.chunk.js",
     "static/css/main.bb41f7c6.chunk.css",
-    "static/js/main.d6516cfb.chunk.js"
+    "static/js/main.b1d3f672.chunk.js"
   ]
 }
